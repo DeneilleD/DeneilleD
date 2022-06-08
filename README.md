@@ -1,3 +1,4 @@
+![snip](readme.png)
 <h1 align="center">Hi 👋, I'm Deneille Davids</h1>
 <h3 align="center">A passionate problem solver and full-stack developer from Boston, Ma</h3>
 
